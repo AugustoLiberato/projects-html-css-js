@@ -1,0 +1,7 @@
+COMANDO CASO A TRANSFERÊMCIA DE PASTA DÊ ERRO
+cd nome-do-diretório
+Remove-Item -Recurse -Force .git
+cd ..
+git rm --cached nome-do-diretório
+git add nome-do-diretório
+git commit -m "Transformando submódulo em pasta normal"
