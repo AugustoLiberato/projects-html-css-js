@@ -1,4 +1,4 @@
-# Praticando HTML CSS E JAVASCRIPT
-Assim que entrei o estágio na câmara, comessei a fazer cursos de html css e javascript antes de comessar a fazer curso de Vue 3.
+# Praticando HTML, CSS e JavaScriptPT
+Assim que entrei no estágio na Câmara, comecei a fazer cursos de HTML, CSS e JavaScript antes de iniciar os estudos em Vue 3.
 
-Esses são o prejetos que fiz acompanhando os cursos
+Estes são os projetos que desenvolvi acompanhando os cursos.
